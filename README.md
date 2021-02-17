@@ -38,7 +38,7 @@ Uses NIV84.
 
 ## Build
 
-kjv can be built by cloning the repository and then running make:
+niv can be built by cloning the repository and then running make:
 
     git clone https://github.com/RichFree/niv84.git
     cd niv84
