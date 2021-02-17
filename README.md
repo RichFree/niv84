@@ -1,4 +1,4 @@
-# kjv
+# niv84
 
 Read the Word of God from your terminal
 
@@ -7,7 +7,7 @@ Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kj
 
 ## Usage
 
-    usage: ./kjv [flags] [reference...]
+    usage: ./niv [flags] [reference...]
 
       -l      list books
       -W      no line wrap
@@ -38,7 +38,7 @@ Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kj
 
 kjv can be built by cloning the repository and then running make:
 
-    git clone https://github.com/lukesmithxyz/kjv.git
+    git clone https://github.com/RichFree/niv84.git
     cd kjv
     sudo make install
 
