@@ -2,7 +2,9 @@
 
 Read the Word of God from your terminal
 
-Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git) but with the Apocrypha added.
+Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kjv.git).
+
+Uses NIV84. 
 
 
 ## Usage
@@ -39,7 +41,7 @@ Forked from [https://github.com/bontibon/kjv.git](https://github.com/bontibon/kj
 kjv can be built by cloning the repository and then running make:
 
     git clone https://github.com/RichFree/niv84.git
-    cd kjv
+    cd niv84
     sudo make install
 
 ## License
